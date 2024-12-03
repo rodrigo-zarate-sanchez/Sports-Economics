@@ -1,3 +1,4 @@
+**Spanish version**
 Este curso está diseñado para estudiantes, profesionales del deporte y el público en general, y tiene como objetivo proporcionar los fundamentos de la economía del deporte (sports economics). A lo largo del curso, se introduce esta disciplina, destacando las características particulares de la economía aplicada al ámbito deportivo.
 
 El contenido abarca conceptos económicos clave como el costo de oportunidad, el valor presente y futuro, y las leyes de oferta y demanda, siempre en el contexto de la industria deportiva. También se exploran los objetivos de las organizaciones deportivas, que suelen debatirse entre la maximización de rentabilidad, ingresos y logros deportivos. Se presentan diversos modelos económicos aplicados al deporte y se explican sus características principales.
@@ -9,7 +10,7 @@ Otro tema relevante es el análisis económico de los grandes eventos deportivos
 Si te interesa conocer más sobre el curso, no dudes en contactarme. Estaré encantado de brindarte más información y responder a tus preguntas.
 
 
-English version:
+**English version:**
 This course is designed for students, sports professionals, and the general public, aiming to provide a solid foundation in sports economics. Throughout the course, we introduce this discipline, highlighting the unique aspects of economics as applied to the sports industry.
 
 The content covers essential economic concepts such as opportunity cost, present and future value, and the laws of supply and demand, all contextualized within the sports sector. We also explore the goals of sports organizations, which often balance between maximizing profitability, revenues, and sporting achievements. Various economic models are introduced, and their main characteristics are explained.
